@@ -29,7 +29,7 @@
 ## 💻 My workspace <br>
 
 <div>
-<img src="https://img.shields.io/badge/dellg15-GTX1650-0078B6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/dellg15-NVIDIA_GTX_1650-0078B6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0072C5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/RAM_16GB-0071C5?style=for-the-badge&logo=intel&logoColor=white">
