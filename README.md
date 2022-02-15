@@ -29,10 +29,11 @@
 ## 💻 My workspace <br>
 
 <div>
-<img src="https://img.shields.io/badge/dellg15-NVIDIA_GTX_1650-0078B6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Dell_g15_5510-B0C4DE?style=for-the-badge&logo=dell&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA_GTX_1650-00FF7F?style=for-the-badge&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Core_i5_10th-0072C5?style=for-the-badge&logo=intel&logoColor=white">
-<img src="https://img.shields.io/badge/RAM_16GB-0071C5?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAM_16GB-000000?style=for-the-badge&logo=hyperx&logocolor=FF0000">
 </div>
 
 Amo a dor de cabeça da programação.
